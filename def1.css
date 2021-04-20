@@ -20,7 +20,7 @@ background-color:transparent;
         background:
         url(img/goré1.jpg);
         background-size: cover;
-        box-shadow: 2px 2px 6px 0;
+        box-shadow: 10px 10px 15px black;
     }
     .content{
         text-align: center;
@@ -43,8 +43,9 @@ color: black;
                 width: 50%;
                 margin: 50px ;
                 margin-top: 50px;
-                border-radius: 10px;
-                box-shadow: 0 0 10px -3px rgba(0,0,0  .1);
+                border-radius: 30px;
+                box-shadow: 10px 10px 15px white;
+
                 background:url(img/font.jpg);
                 padding: 10px;
                 float: right;
@@ -60,8 +61,8 @@ color: black;
                 float: left;
                 margin: 50px ;
                 margin-top: 50px;
-                border-radius: 10px;
-                box-shadow: 0 0 10px -3px rgba(0,0,0  .1);
+                border-radius: 30px;
+                box-shadow:10px 10px 15px white;
                 background:url(img/font.jpg);
                 padding: 10px;
             }
@@ -69,27 +70,23 @@ color: black;
 video{
     px;
 }
-but {
+.but {
     
-    transition: 0.5s;
-    text-transform: uppercase;
-    border: 100px solid ;
-    background-color: black;
-    border-width: 100px;
-  height: 50px;
-    border: 1px solid black;
-    margin: 100px;
-   float: right;
-    border-radius: 100px;
-    color: black;
+    font-weight: 900;
+    font-size: x-large;
+    border-radius: 30px
+   
+   
+   
     font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
-  
-    text-align: center;
+  font-size: x-large;
+  bottom: 100px;
+    
   }
   .but:hover{
   
-    box-shadow: 0 3px 40px 0 white inset, 0 5px 40px 0 black,
+  box-shadow:   0 15px 10px 0 gray inset, 0 50px 90px 0 black,
+    0 15px 10px 0 gray inset, 0 50px 90px 0 black;
 }
 
-b

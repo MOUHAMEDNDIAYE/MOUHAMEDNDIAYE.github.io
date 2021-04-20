@@ -9,7 +9,7 @@
     body{
        
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-background-image: url(img/karim-manjra-w8ta246CwIs-unsplash.jpg);
+background-image: url(img/shifaaz-shamoon-oR0uERTVyD0-unsplash\ \(1\).jpg);
 background-size: cover;
     }
     .banner-area{
@@ -71,27 +71,23 @@ color: black;
 video{
     px;
 }
-but {
+.but {
     
-    transition: 0.5s;
-    text-transform: uppercase;
-    border: 100px solid ;
-    background-color: black;
-    border-width: 100px;
-  height: 50px;
-    border: 1px solid black;
-    margin: 100px;
-   float: right;
-    border-radius: 100px;
-    color: black;
+    font-weight: 900;
+    font-size: x-large;
+    border-radius: 30px
+   
+   
+   
     font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
-  
-    text-align: center;
+  font-size: x-large;
+  bottom: 100px;
+    
   }
   .but:hover{
   
-    box-shadow: 0 3px 40px 0 white inset, 0 5px 40px 0 black,
+  box-shadow:   0 15px 10px 0 gray inset, 0 50px 90px 0 black,
+    0 15px 10px 0 gray inset, 0 50px 90px 0 black;
 }
 
-b

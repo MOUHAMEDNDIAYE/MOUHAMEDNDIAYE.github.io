@@ -20,3 +20,33 @@ p{
     font-weight: 900;
     font-style: oblique;
 }
+.but {
+    
+    font-weight: 900;
+    font-size: x-large;
+    border-radius: 30px
+   
+   
+   
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  bottom: 100px;
+    
+  }
+  .but:hover{
+  
+  box-shadow:   0 15px 10px 0 gray inset, 0 50px 90px 0 black,
+    0 15px 10px 0 gray inset, 0 50px 90px 0 black;
+}
+.mpi{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    font-style: oblique;
+text-decoration: underline;
+}
+
+
+}
+
