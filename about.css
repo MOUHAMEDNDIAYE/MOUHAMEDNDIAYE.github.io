@@ -1,0 +1,22 @@
+.bor{
+
+    box-shadow: 12px 12px 19px black;
+   
+}
+img{
+
+  
+}
+body{
+
+    background-image: url(img/FLEUR.jpeg);
+    background-size: contain;
+}
+p{
+    text-align: center;
+    text-overflow: ellipsis;
+    text-shadow: 1px 1px 2px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: oblique;
+}

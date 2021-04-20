@@ -1,0 +1,376 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "century Gothic";
+}
+
+
+
+
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/20404.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 20px 30px;
+    border: 1px solid;
+    max-width: 1400px;
+}
+
+
+    
+    
+    
+    }
+    ul{
+        float: left;
+        list-style-type: none;
+       
+    }
+    ul li{
+        display: inline-block;
+    }
+    ul li a{
+        text-decoration: none;
+        color:white;
+       background-color:rgb(146, 248, 255);
+        border: 0.1px solid white;
+        background-color: tr;
+        letter-spacing: 3px;
+        font-size: 20px;
+        border-radius: 10px;
+        margin:0%;
+       
+        
+    }
+
+
+  
+    .title{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        color: white;
+    }
+    .title h1{
+        color: #fff;
+        font-size: 70px;
+    }
+    .main{
+       
+    }
+    .petal{
+
+        border:3px solid cyan;
+        margin: 5px;
+        float: right;
+        
+
+    }
+    .footer-bottom {
+        text-align: center;
+        padding: 10px;
+        background-color: #00121b;
+        color: #fff;
+        font-size: 12px;
+    }
+    .narcos{
+        width: 20%;
+        padding: 1px 2px;
+        box-sizing: border-box;
+        border: 1px solid blue;
+        border-radius: 50px;
+        box-shadow: 6px 6px 6px;
+        border-width: 1px;
+        border-style: solid;
+        border-top-color: blue;
+        border-color: gray;
+        
+        margin: 1px;
+        float: left;
+        
+    }
+    .footer-items h1{
+        padding: 10px 0;
+        font-size: 25px;
+        color:black;
+        text-transform: uppercase;
+        
+    }
+    .footer-items p{
+        color:black;
+        font-size: 16px;
+        text-align: justify;
+        line-height: 25px;
+    }
+    .footer h2{
+        margin: 10px 0;
+        color:black;
+        font-size: 16px;
+        font-weight: lighter;
+        text-transform: uppercase;
+    }
+    .border{
+        height: 2px;
+        width: 40px;
+        background-color:black;
+    }
+   
+   
+   
+    .footer-bottom {
+        text-align: center;
+        padding: 10px;
+        background-color: #00121b;
+        color:white;
+        font-size: 12px;
+        bottom: unset;
+        margin-top: unset;
+        
+    }
+    .pipe{
+       
+        width: 150px;
+        height: 100px;
+        border-radius: 20px;
+        float: right ;
+        box-shadow: 6px 9px 10px black;
+        margin: 5% 2% 2% 5%;  
+    }
+    .plat{
+
+        width: 25%;
+        box-sizing: border-box;
+        border-radius: 50px;
+        float:right left;
+        width: 25%;
+        padding: 10px 20px;
+        border: 1px solid #000;
+        box-shadow: 4px 4px 3px;
+        border-width: 3px;
+        border-style: solid;
+        border-top-color: black;
+        border-color: black;
+        border-collapse: separate;
+        margin: 2px;
+        
+        
+        
+        
+    }
+    .pop{
+        width: 150px;
+        height: 100px;
+        border-radius: 20px;
+        float:left right;
+        margin: 5% 2% 2% 5%;
+        box-shadow: 6px 9px 10px black;
+        
+
+    }
+
+    .pb:hover{
+        transition: steps(1.3);
+;
+
+    }
+   .mom{
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    float:right left;
+    margin: 5% 2% 2% 5%;
+    box-shadow: 6px 9px 10px black;
+    background-color: blanchedalmond;
+    transition-duration: 00.5ms;
+    transition: ease-in-out;
+   }
+   .mm{
+
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    float: right ;
+    box-shadow: 6px 9px 10px black;
+    margin: 5% 2% 2% 5%;
+   }
+   .mam{
+    width: 150px;
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 6px 9px 10px black;
+    margin: 5% 2% 2% 5%;
+    float: left right;
+
+   }
+
+
+
+
+
+
+ul{
+    list-style: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+ul a{
+    text-decoration:none;
+   
+    
+    transition: 0.3s;
+}
+ul a:hover{
+    color:black;
+    
+}
+ul li{
+    margin: 20px 20px;
+    height: 25px;
+}
+li i{
+    margin-right: 20px;
+}
+
+main{
+    background-color:rgb(227, 241, 250);
+    
+
+
+
+
+
+
+
+
+
+
+
+}
+.PARADI{
+
+    float:left;
+}
+
+
+body{
+
+    background-color:rgb(140, 143, 143);
+}
+.bn{
+
+}
+.ww{
+border-width: 2px;
+border-style: solid;
+border-color:black ;
+margin: 20px;
+padding: 20px;
+box-shadow: 2px 2px 3px;
+
+
+}
+
+
+.bix{ margin: 0 2px;
+    box-shadow: 0 0 20px 2px rgba(red, green, blue, alpha);
+    transition: 1s;
+
+
+}
+.bex{ margin: 0 2px;
+    box-shadow: 0 0 20px 2px rgba(red, green, blue, alpha);
+    transition: 1s;
+}
+.x{ margin: 0 2px;
+    box-shadow: 0 0 20px 2px rgba(red, green, blue, alpha);
+    transition: 1s;
+}
+.box{
+
+    margin: 0 2px;
+    box-shadow: 0 0 20px 2px rgba(red, green, blue, alpha);
+    transition: 1s;
+
+
+
+
+
+
+}
+
+.bex:hover{
+    transform: scale(1.1);
+    z-index: 3px;;
+}
+
+
+.bix:hover{
+    transform: scale(1.1);
+    z-index: 3px;;
+}
+
+.x:hover{
+    transform: scale(1.1);
+    z-index: 3px;;
+}
+
+
+.box:hover{
+    transform: scale(1.1);
+    z-index:2;
+
+
+}
+
+
+
+
+
+
+
+.button {
+    
+    transition: 0.5s;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    font-size: 30px;
+    font-style: oblique;
+    font-size: large;
+    width: 10px;
+    border-radius: 100px;
+    text-align: center;
+    background-color:transparent;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    color:white;
+}
+.button:hover{
+
+    box-shadow: 0 5px 10px 0 transparent inset, 0 50px 90px 0 white,
+                0 5px 10px 0 transparent inset, 0 50px 90px 0 white;
+}
+
+.butto {
+    color: black;
+    transition: 0.5s;
+    text-transform: uppercase;
+    border: 3px solid transparent;
+    font-size: 30px;
+    width: 150px;
+    border-radius: 100px;
+    text-align: center;
+    background-color:transparent
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+     margin: 0;
+     padding: 0;
+
+}
+.butto:active{
+
+    transition:ease-out
+
